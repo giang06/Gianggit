@@ -56,9 +56,7 @@ clear: both;
 
 <div class="main">
 
-<div class="content">
-Đây là nội dung trang web
-</div>
+
 
 <div class="sidebar">
 Đây là sidebar trang web
